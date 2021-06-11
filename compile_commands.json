@@ -1,0 +1,57 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-c",
+      "programm.cc"
+    ],
+    "directory": "/Users/nfejzic/OneDrive - stud.sbg.ac.at/Fax/Predmeti/C und Cpp Programmiersprachen/repo/cpp",
+    "file": "/Users/nfejzic/OneDrive - stud.sbg.ac.at/Fax/Predmeti/C und Cpp Programmiersprachen/repo/cpp/programm.cc"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-c",
+      "city.cc"
+    ],
+    "directory": "/Users/nfejzic/OneDrive - stud.sbg.ac.at/Fax/Predmeti/C und Cpp Programmiersprachen/repo/cpp",
+    "file": "/Users/nfejzic/OneDrive - stud.sbg.ac.at/Fax/Predmeti/C und Cpp Programmiersprachen/repo/cpp/city.cc"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-c",
+      "city_list.cc"
+    ],
+    "directory": "/Users/nfejzic/OneDrive - stud.sbg.ac.at/Fax/Predmeti/C und Cpp Programmiersprachen/repo/cpp",
+    "file": "/Users/nfejzic/OneDrive - stud.sbg.ac.at/Fax/Predmeti/C und Cpp Programmiersprachen/repo/cpp/city_list.cc"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-c",
+      "street.cc"
+    ],
+    "directory": "/Users/nfejzic/OneDrive - stud.sbg.ac.at/Fax/Predmeti/C und Cpp Programmiersprachen/repo/cpp",
+    "file": "/Users/nfejzic/OneDrive - stud.sbg.ac.at/Fax/Predmeti/C und Cpp Programmiersprachen/repo/cpp/street.cc"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++11",
+      "-Wall",
+      "-c",
+      "street_list.cc"
+    ],
+    "directory": "/Users/nfejzic/OneDrive - stud.sbg.ac.at/Fax/Predmeti/C und Cpp Programmiersprachen/repo/cpp",
+    "file": "/Users/nfejzic/OneDrive - stud.sbg.ac.at/Fax/Predmeti/C und Cpp Programmiersprachen/repo/cpp/street_list.cc"
+  }
+]
