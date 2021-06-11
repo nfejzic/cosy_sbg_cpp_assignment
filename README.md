@@ -26,7 +26,7 @@ The `.dat` files are files containing information about cities (`stadt.dat`), ar
 
 | from_city_id | to_city_id | distance |
 
-## **NOTE** About `compile_commands.json`
+## **NOTE:** About `compile_commands.json`
 
 I use Sublime Text 4 with SublimeLSP package using `clangd` language server.
 
