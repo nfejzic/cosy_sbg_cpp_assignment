@@ -1,0 +1,10 @@
+# Build files
+*.o
+*.d
+programm
+
+# clangd stuff
+.cache/
+
+# My editor stuff
+*.sublime-workspace
